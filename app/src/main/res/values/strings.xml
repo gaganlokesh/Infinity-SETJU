@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Infinity</string>
+
+    <string name="signout">Sign Out</string>
+    <string name="license">Licenses</string>
+    <string name="feedback">Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    //bottom navigation
+    <string name="tab1">Home</string>
+    <string name="tab2">Events</string>
+    <string name="tab3">Feeds</string>
+    <string name="tab4">Contact</string>
+    <string name="tab5">App</string>
+
+    //Category----
+    <string name="categories">Categories</string>
+    <string name="Dance">Dance</string>
+    <string name="Fashion">Fashion</string>
+    <string name="music">Music</string>
+    <string name="Theatre">Theatre</string>
+    <string name="Fine_arts">Fine Arts</string>
+    <string name="Quiz">Quiz</string>
+    <string name="Tech">Tech</string>
+    <string name="Literary">Literary</string>
+    <string name="Photography">Photography</string>
+    <string name="Informal">Informal</string>
+    <string name="gaming">Gaming</string>
+    <string name="welfare">Welfare</string>
+    <string name="Food_Technology">Food</string>
+
+    <string name="event_imageView">eventImage</string>
+    <string name="events">Events</string>
+
+    <string name="category_name">categoryName</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //--------ProgressWheel---------------------------
+    <string name="countdown">COUNTDOWN</string>
+    <string name="days">days</string>
+    <string name="hours">hrs</string>
+    <string name="minutes">min</string>
+    <string name="seconds">sec</string>
+
+    //Home Fragment----------------------------------
+    <string name="infinity">Infinity\'18</string>
+    <string name="setJU">SET-Jain University</string>
+    <string name="DrChenraj">Dr. Chenraj Roychand</string>
+    <string name="President">President</string>
+    <string name="semiCircleContentDesc">SemiCircle</string>
+    <string name="aboutInfinity">
+        Infinity is an exceptional junction where beautiful cultures are
+presented with technological innovations booming all the way. The
+atmosphere of the festival is filled with all energy, excitement and
+elation. It is not just a festival, it is a celebration with 25+ cultural and
+technical events.
+We, at JAIN UNIVERSITY- SET have just the right thing for you to sync
+into this euphoria - A two day carnival celebrating the glory of the world’s
+        largest democratic county with the theme of MAKE IN INDIA.
+    </string>
+
+    <string name="aboutSetJU">
+         School of Engineering &amp; Technology, Jain University (SET-JU),
+located in Bengaluru, has emerged as one of the highly renowned engineering institutions. Being
+an integral part of Jain University, SET-JU offers unique graduate, postgraduate and specialized
+programs for the aspiring minds. The educational institution is intently focused to deliver the world class
+educational experience. The highly efficient teaching mechanism and research facilities, coupled with
+the practical and forward thinking approach provide a distinctive and high-quality academic experience.
+The course curriculum is focused on developing the skills and knowledge of students, thereby allowing
+a smooth transition from the academic setup to the professional industry environment.
+    </string>
+
+    <string name="get_direction">Get Direction</string>
+    <string name="status">See you next year!</string>
+    <string name="fbCD">facebook</string>
+    <string name="instaCD">Instagram</string>
+    <string name="websiteCD">Website</string>
+    <string name="youtubeCD">Youtube</string>
+    <string name="social">Social:</string>
+
+
+    //Contact Fragment--------------------------
+
+    <string name="CulturalSecretary">Cultural Secretary</string>
+    <string name="organizer">Organizer</string>
+    <string name="SponsorshipTeam">Sponsorship Team</string>
+    <string name="MarketingTeam">Marketing Team</string>
+    <string name="EventTeam">Event Organizing Team</string>
+
+    <string name="FacultyCoordinators">Faculty Coordinators</string>
+    <string name="StudentCoordinators">Student Coordinators</string>
+
+    //Feedback Activity----------------------------
+
+    <string name="Feedback_header">If you want to provide your feedback on the app, or have something to share with us, feel free
+    to leave a message below. </string>
+    <string name="Feedback_Hint">Type your message here</string>
+    <string name="Send">Send</string>
+
+
+    //No Connection-------------
+    <string name="no_internet">No Internet Connection.</string>
+    <string name="no_internet_tip">Please check your network connection and restart the app.</string>
+
+
+    //About App------------------
+    <string name="devIconCD">DeveloperIcon</string>
+    <string name="devFbCD">DeveloperFacebook</string>
+    <string name="devLinkedInCD">DeveloperLinkedin</string>
+    <string name="about_app">Infinity App is built with the help of Google\'s Support Libraries and other third party libraries. It follows material design guidelines to render interactive User Interface and provide a seamless User Experience.</string>
+    <string name="designed_by">Designed and Written by:</string>
+    <string name="dev_name">Gagan Lokesh</string>
+
+    //EventDetail-----------------------
+    <string name="description">DESCRIPTION</string>
+    <string name="Registration_fee">Registration Fee:</string>
+    <string name="time">Time:</string>
+    <string name="venue">Venue:</string>
+    <string name="rules">RULES</string>
+    <string name="prize_money">Prize Money:</string>
+    <string name="Event_coordinator">Event Coordinator:</string>
+
+</resources>
